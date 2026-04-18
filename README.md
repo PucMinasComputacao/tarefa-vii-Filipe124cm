@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Filipe Mota Coelho 
+- Matricula: 916493
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print do console](public/Orçamento.png)
 
 
 
